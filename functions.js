@@ -43,4 +43,4 @@ const calculateTotal = (basePrice, state, tax=0.05) => {
     return subtotal + fee;
 }
 
-console.log(calculateTotal(100, 'MA'))
+// console.log(calculateTotal(100, 'MA'))
